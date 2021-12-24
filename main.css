@@ -1,0 +1,73 @@
+body {
+	background: url(images/background.jpg);
+	background-size: cover;
+    width: 300px;
+    height: 300px;
+    color: pink;
+}
+
+.registration {
+	position: absolute;
+	left: 7%;
+}
+
+.registration h1 {
+	font-size: 50px;
+}
+
+
+.registration p {
+	font-size: 22px;
+	margin: 15px;
+}
+
+.registration input {
+	font-size: 18px;
+	padding: 10px 10px;
+	width: 30%;
+	border: 1px;
+	border-radius: 10px;
+}
+
+.registration button {
+	font-size: 15px;
+	font-weight: bolder;
+	margin: 20px 5px;
+	padding: 10px 10px;
+	width: 25%;
+	border: 1px;
+	border-radius: 7px;
+}
+
+.registration button:hover {
+	color: #CCCCFF ;
+}
+
+#click2 {
+	font-size: 10px;
+	font-weight: bolder;
+	margin: 10px 3px;
+	padding: 5px 5px;
+	width: 10%;
+	border: 1px;
+	border-radius: 7px;
+
+}
+
+
+#click3 {
+	font-size: 10px;
+	font-weight: bolder;
+	margin: 10px 3px;
+	padding: 5px 5px;
+	width: 10%;
+	border: 1px;
+	border-radius: 7px;
+
+}
+
+#select1 {
+	font-size: 22px;
+	margin: 15px;
+
+}
